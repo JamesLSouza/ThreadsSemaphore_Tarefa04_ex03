@@ -80,8 +80,7 @@ public class ThreadF1 extends Thread {
 			}
 		}
 		for (int i = 0; i < 14; i++) {
-			System.out
-					.println("Posição " + (i + 1) + ": " + Principal.Voltas[i] + Principal.QntVoltas[i] + " segundos");
+			System.out.println("Posição " + (i + 1) + ": " + Principal.Voltas[i] + Principal.QntVoltas[i] + " segundos");
 		}
 	}
 
